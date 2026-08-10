@@ -6,3 +6,5 @@ Este es el reto #1 de gestion de datos, hecho por david hernandez
 - git status 
 - git switch -c rama_2
 - git branch
+- Creamos un .gitignore para proteger las credenciales
+- git push origin
