@@ -5,3 +5,4 @@ Este es el reto #1 de gestion de datos, hecho por david hernandez
 - git git commit
 - git status 
 - git switch -c rama_2
+- git branch
