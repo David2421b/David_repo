@@ -1,3 +1,6 @@
 Este es el reto #1 de gestion de datos, hecho por david hernandez
 
 - git init
+- git git add .
+- git git commit
+- git status 
