@@ -12,3 +12,7 @@ Este es el reto #1 de gestion de datos, hecho por david hernandez
 - git merge rama_2
 - git branch -d rama_2 
 - sexto paso: juanita agrega un cambio mediante Pull request 
+
+
+
+Cambio realizado por Jonnathan para la práctica de Git y GitHub. 
